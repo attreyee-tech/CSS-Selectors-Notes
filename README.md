@@ -22,5 +22,5 @@ Descendant ( ), Child (>), Adjacent Sibling (+), General Sibling (~).
 :hover etc.                                           
 
 Below is the said notes:
-[!Image](IMG_0055.jpeg)
+![Image](IMG_0055.jpeg)
 
