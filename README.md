@@ -8,21 +8,19 @@ If you're someone who learns better with visuals or just wants a quick scroll-th
 
 This repository includes high-quality, handwritten or designed images covering:
 
-✅ Basic Selectors
-Universal (*)
-Element (div, p, etc.)
-Class (.class-name) & ID (#id-name)
+✅ Basic Selectors.                                                   
+Universal (*).                                           
+Element (div, p, etc.).                                      
+Class (.class-name) & ID (#id-name).                                   
 
 🔗 Combinators
-Descendant ( ), Child (>), Adjacent Sibling (+), General Sibling (~)
+Descendant ( ), Child (>), Adjacent Sibling (+), General Sibling (~).                                    
 
-🔍 Attribute Selectors
-[type], [type="text"], [type^="te"], etc.
-💡 Pseudo-classes
-:hover etc
+🔍 Attribute Selectors.                                                            
+[type], [type="text"], [type^="te"], etc.                                         
+💡 Pseudo-classes.                                                                      
+:hover etc.                                           
 
-🧠 Advanced Selector Tips
-Combining multiple selectors
-Specificity tricks
-Clean code practices
+Below is the said notes:
+[!Image](IMG_0055.jpeg)
 
